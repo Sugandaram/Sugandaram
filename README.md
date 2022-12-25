@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sugandaram
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning - Advanced Programming and Master Data Science
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me @ sugandaramvaithiyam@hotmail.com, +91-9944786801
 
 <!---
