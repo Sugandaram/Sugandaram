@@ -4,7 +4,7 @@
 
 - 📫 How to reach me @ sugandaramvaithiyam@gmail.com, +91-9944786801
 
--🌍 My Portfolio @ https://sugandaramlearn22.wixsite.com/sugandaram-v-l-r-m
+- 🌍 My Portfolio @ https://sugandaramlearn22.wixsite.com/sugandaram-v-l-r-m
 
 <!---
 Sugandaram/Sugandaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
