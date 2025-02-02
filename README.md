@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sugandaramlearn22.wixsite.com/sugandaram-v-l-r-m](https://sugandaramlearn22.wixsite.com/sugandaram-v-l-r-m)
 
-- 💬 Ask me about **Python, SQL, Data Science, Machine Learning**
+- 💬 Ask me about **Python, Java, SQL, Selenium, Cucumber, Automation Testing, Manual Testing, Postman, Data Science, Machine Learning**
 
 - 📫 How to reach me **sugandaramvaithiyam@gmail.com**
 -    contact me +91 9944786801
